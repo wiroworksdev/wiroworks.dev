@@ -5,6 +5,10 @@ module.exports = {
   parser: "@babel/eslint-parser",
   parserOptions: {
     requireConfigFile: false,
+    babelOptions: {
+      babelrc: false,
+      configFile: false,
+    },
   },
   extends: ["eslint:recommended", "plugin:vue/vue3-recommended", "prettier"],
   rules: {
