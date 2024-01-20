@@ -11,10 +11,11 @@
     "format": "prettier .  --write"
   },
   "dependencies": {
-    "@babel/eslint-parser": "^7.23.3",
+    "flowbite": "^2.2.1",
     "vue": "^3.3.11"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.23.3",
     "@vitejs/plugin-vue": "^4.5.2",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.56.0",
