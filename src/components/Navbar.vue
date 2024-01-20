@@ -22,7 +22,7 @@ onMounted(() => {
 <template>
     <nav class="bg-white border-gray-200 dark:bg-gray-900">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-            <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
+            <a href="https://wiroworks.dev/" class="flex items-center space-x-3 rtl:space-x-reverse">
                 <img src="../assets/img/logo.svg" class="h-8" alt="Flowbite Logo" />
                 <span
                     class="self-center text-gray-700 text-2xl font-medium font-brand uppercase whitespace-nowrap dark:text-white">Wiroworks</span>
