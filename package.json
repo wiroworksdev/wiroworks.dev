@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "flowbite": "^2.2.1",
-    "vue": "^3.3.11"
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.3",
+    "@types/node": "^20.11.5",
     "@vitejs/plugin-vue": "^4.5.2",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.56.0",
