@@ -32,7 +32,6 @@
 <script setup lang="ts">
 import { Collapse } from 'flowbite';
 import type { CollapseInterface } from 'flowbite';
-import { useRoute } from 'vue-router';
 
 let collapse: CollapseInterface | null = null;
 
